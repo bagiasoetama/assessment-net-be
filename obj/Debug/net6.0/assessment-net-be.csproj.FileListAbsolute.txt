@@ -1,0 +1,78 @@
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\appsettings.Development.json
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\appsettings.json
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\assessment-net-be.exe
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\assessment-net-be.deps.json
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\assessment-net-be.runtimeconfig.json
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\assessment-net-be.dll
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\assessment-net-be.pdb
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\Dapper.dll
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bagia\Github Repo\assessment-net-be\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.csproj.AssemblyReference.cache
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.AssemblyInfoInputs.cache
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.AssemblyInfo.cs
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.csproj.CoreCompileInputs.cache
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.MvcApplicationPartsAssemblyInfo.cs
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.MvcApplicationPartsAssemblyInfo.cache
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets\msbuild.assessment-net-be.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets\msbuild.build.assessment-net-be.props
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.assessment-net-be.props
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.assessment-net-be.props
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\scopedcss\bundle\assessment-net-be.styles.css
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.csproj.CopyComplete
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.dll
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\refint\assessment-net-be.dll
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.pdb
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.genruntimeconfig.cache
+D:\Bagia\Github Repo\assessment-net-be\obj\Debug\net6.0\ref\assessment-net-be.dll
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\appsettings.Development.json
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\appsettings.json
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\assessment-net-be.exe
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\assessment-net-be.deps.json
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\assessment-net-be.runtimeconfig.json
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\assessment-net-be.dll
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\assessment-net-be.pdb
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\Dapper.dll
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bagia\Repo\assessment-net-be\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.csproj.AssemblyReference.cache
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.AssemblyInfoInputs.cache
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.AssemblyInfo.cs
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.csproj.CoreCompileInputs.cache
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.MvcApplicationPartsAssemblyInfo.cs
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.MvcApplicationPartsAssemblyInfo.cache
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets\msbuild.assessment-net-be.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets\msbuild.build.assessment-net-be.props
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.assessment-net-be.props
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.assessment-net-be.props
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\scopedcss\bundle\assessment-net-be.styles.css
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.csproj.CopyComplete
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.dll
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\refint\assessment-net-be.dll
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.pdb
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\assessment-net-be.genruntimeconfig.cache
+D:\Bagia\Repo\assessment-net-be\obj\Debug\net6.0\ref\assessment-net-be.dll

@@ -1,0 +1,40 @@
+DECLARE @@status VARCHAR(10);
+DECLARE @@message VARCHAR(MAX);
+DECLARE @@err VARCHAR(MAX);
+
+IF EXISTS (SELECT 1 FROM TB_LECTURER WHERE LECTURER_ID = @LECTURER_ID) 
+BEGIN
+	BEGIN TRY
+		BEGIN TRANSACTION
+
+		UPDATE TB_LECTURER_DETAIL
+		SET LECTURER_TELP = @LECTURER_TELP,
+		LECTURER_EMAIL = @LECTURER_EMAIL,
+		LECTURER_ADDRESS = @LECTURER_ADDRESS
+		WHERE LECTURER_ID = @LECTURER_ID
+
+		UPDATE TB_LECTURER
+		SET LECTURER_NAME = @LECTURER_NAME
+		WHERE LECTURER_ID = @LECTURER_ID
+
+		SET @@status = 'true';
+		SET @@message = 'Sukses Update Data';
+
+		COMMIT TRANSACTION
+	END TRY
+	BEGIN CATCH 
+		ROLLBACK TRANSACTION
+		SET @@status = 'false';
+		SET @@message = 'Gagal Update Data';
+		SET @@err = (SELECT ERROR_MESSAGE());
+	
+	END CATCH
+END
+ELSE
+BEGIN
+    SET @@status = 'false';
+	SET @@message = 'Gagal Update Data';
+	SET @@err = 'Data Lecturer Tidak Ditemukan';
+END
+
+SELECT @@status AS [status], @@message AS [message], @@err AS error;
